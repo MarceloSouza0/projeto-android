@@ -67,8 +67,8 @@ unicode-bidi: isolate;
 header p {
     color: white;
     font-size: 1em;
-    padding: 0px;
     padding-top: 10px;
+    padding-bottom: 50px;
     text-align: center;
     text-shadow: var(--box-shadow-padrao-texto)
 }
